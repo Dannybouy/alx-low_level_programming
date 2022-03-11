@@ -1,10 +1,8 @@
 #include<stdio.h>
 /**
  * main - entry Point
- *
  * The function of this file is to print out the various sizes of data types in C
- *
- * return: Always 0 (sucess0
+ * return: Always 0 (success)
  */
 int main(void)
 {
