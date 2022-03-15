@@ -4,7 +4,7 @@
  *
  * Description: A program thats alphabet in lowercase, and then in uppercase
  *
- * Returns: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
