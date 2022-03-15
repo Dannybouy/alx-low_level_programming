@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main: print numbers
+ * main - print numbers
  *
  * Description: Print all single digit numbers of base 16
  *
